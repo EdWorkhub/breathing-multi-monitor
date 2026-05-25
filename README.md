@@ -1,5 +1,7 @@
 <img width="128" height="128" alt="Breathing Icon" src="icon.png" />
 
+<b> Directly taken from "Breathing" by nitin2953. </b>
+
 # **Breathing Overlay (Native Windows)**
 
 A tiny (250KB), "Zero-Dependency" breathing exercise overlay for Windows.
